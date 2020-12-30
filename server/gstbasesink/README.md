@@ -2,6 +2,8 @@
 
 1. You need to build and install gstreamer with source code at address below.
 
+https://launchpad.net/ubuntu/+source/gstreamer1.0/1.14.5-0ubuntu1~18.04.1
+
 1.1. Build and install according to its README
 
 1.2. If it still does not run after running "sudo make install", run following command to move .so file.
