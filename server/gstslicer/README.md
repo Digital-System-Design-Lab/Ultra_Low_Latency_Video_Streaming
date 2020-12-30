@@ -1,11 +1,11 @@
-# requirements:
+### requirements:
 
 	gstreamer-base-1.0
 	gstreamer-1.0
 
 sudo apt-get install libgstreamer-plugins-base1.0-dev
 
-# build guide:
+### build guide:
 
 1. open terminal
 
