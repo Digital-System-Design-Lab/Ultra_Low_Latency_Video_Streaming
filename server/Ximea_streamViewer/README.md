@@ -1,10 +1,10 @@
 
-# discription:
+### discription:
 
 This README is to connect ximea package api and gst-rtsp-server1.0 to make rtsp server using ximea camera.
 
 
-# requirements:
+### requirements:
 
 1. Ximea API (for ximea camera)
 
@@ -56,7 +56,7 @@ and you can directly implement to use various options of ximea camera by using A
 	sudo cp /home/nvidia/gstreamer/gst-rtsp-server-1.14.5/pkgconfig/gstreamer-rtsp-server-1.0.pc /usr/lib/aarch64-linux-gnu/pkgconfig/gstreamer-rtsp-server-1.0.pc
 
 
-# setting guide:
+### setting guide:
 
 1. Modify Makefile of StreamViewer example of ximea package as follows.
 
