@@ -3,7 +3,7 @@
 	gstreamer-base-1.0
 	gstreamer-1.0
 
-sudo apt-get install libgstreamer-plugins-base1.0-dev
+sudo apt-get install libgstreamer-plugins-base1.0-dev gstreamer1.0-x 
 
 
 ### discription:
