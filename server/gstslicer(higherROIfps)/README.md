@@ -1,4 +1,4 @@
-# requirements:
+### requirements:
 
 	gstreamer-base-1.0
 	gstreamer-1.0
@@ -6,12 +6,12 @@
 sudo apt-get install libgstreamer-plugins-base1.0-dev
 
 
-# discription:
+### discription:
 
  Two slices in the middle of the image divided into six horizontal slices are determined as Region-of-Interest. The fps of non-ROI slices is set to 1/4 of camera fps.
  That is, Only one of four consecutive frames is all delivered to next plugin. For the remaining 3 frames, only ROI slices are delivered to next plugin and nonROI slices are not delivered to next plugin and are deleted.
 
-# build guide:
+### build guide:
 
 1. open terminal
 
