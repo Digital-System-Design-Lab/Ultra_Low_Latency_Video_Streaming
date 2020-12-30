@@ -1,4 +1,4 @@
-# Server system (Encoder)
+## Server system (Encoder)
 This is the source code for the server setting corresponding to the encoder in the system.
 
 Set up according to README.
